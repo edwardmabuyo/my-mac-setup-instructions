@@ -21,7 +21,12 @@ Below is the basic setup requirements for my MAC to get it ready for development
   - `brew install npm -g` - installs node
   - `brew install mongodb`
     - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x
+- Install DiffMerge
 - Install Photoshop
+- Install Evernote
+- Install Skitch
+- Install Spotify (of course =D)
+- Install VLC
 
 # Configurations
 - Configure Accounts
