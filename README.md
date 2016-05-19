@@ -1,12 +1,13 @@
 # My MAC Setup Instructions
 Below is the basic setup requirements for my MAC to get it ready for development.
 
+# Software Installation
 - Install VirtualBox
 - Install Sublime Text 2
 - Install XCode
 - Install Browsers
   - Chrome
-    - Install POSTMAN
+    - Install POSTMAN (https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   - Firefox
   - Opera
 - Install Skype
@@ -21,3 +22,9 @@ Below is the basic setup requirements for my MAC to get it ready for development
   - `brew install mongodb`
     - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x
 - Install Photoshop
+
+# Configurations
+- Configure Accounts
+  - @gmail
+  - @icloud
+  - NOTE: Make sure contacts, notes, reminders, calendar are checked.
