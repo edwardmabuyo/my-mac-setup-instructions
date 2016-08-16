@@ -7,12 +7,12 @@ Below is the basic setup requirements for my MAC to get it ready for development
 - Install XCode
 - Install Browsers
   - Chrome
-    - Install POSTMAN (https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+    - Install [POSTMAN](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   - Firefox
   - Opera
 - Install Skype
 - Install Slack
-- Install Homebrew (http://brew.sh/)
+- Install [Homebrew](http://brew.sh/)
   - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 - Install the following with brew:
   - `brew install wget`
@@ -20,8 +20,9 @@ Below is the basic setup requirements for my MAC to get it ready for development
   - `brew install htop`
   - `brew install npm -g` - installs node
   - `brew install mongodb`
-    - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x
+    - [MongoDb Setup Instructions](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x)
 - Install DiffMerge
+- Install [Docker Machine](https://docs.docker.com/engine/installation/mac/)
 - Install FileZilla
 - Install Dropbox
 - Install MAMP Pro
