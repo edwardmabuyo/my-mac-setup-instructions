@@ -10,8 +10,8 @@ Below is the basic setup requirements for my MAC to get it ready for development
   * <username>@elephantventures.com
   * <username>@personal-emails.com
 * **Generate SSH Key**
-  * sudo ssh-keygen -t rsa -b 4096 -C “<username>@elephantventures.com”
-  * ssh-add -K ~/.ssh/id_rsa
+  * `sudo ssh-keygen -t rsa -b 4096 -C “<username>@elephantventures.com”`
+  * `ssh-add -K ~/.ssh/id_rsa`
   * Set up Git SSH
 
 ## Main Installs
