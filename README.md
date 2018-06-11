@@ -4,8 +4,8 @@ Below is the basic setup requirements for my MAC to get it ready for development
 
 ## Mac Configuration
 * **Set up Accessibility Options**
-  * 3-finger Drag
-  * 4-finger switch screen
+  * 3-finger **Drag**
+  * 4-finger **Switch Screen**
 * **Link Email Accounts**
   * <username>@elephantventures.com
   * <username>@personal-emails.com
