@@ -24,6 +24,7 @@ Below is the basic setup requirements for my MAC to get it ready for development
   * For you to be able to install most command-line tools, you’ll need Xcode installed first
 
 * Install **iTerm**
+  * Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
   * Set theme to “amuse”
 
 * Install **Homebrew**
