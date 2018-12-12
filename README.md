@@ -27,6 +27,8 @@ Below is the basic setup requirements for my MAC to get it ready for development
 * Install **iTerm**
   * Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
   * Set theme to “amuse”
+    * Run `vi ~/.zshrc`
+    * Change `ZSH_THEME="robbyrussell"` to `ZSH_THEME="amuse"`
 
 * Install **Homebrew**
   * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)”`
