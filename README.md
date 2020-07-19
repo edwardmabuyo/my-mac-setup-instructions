@@ -39,7 +39,7 @@ Below is the basic setup requirements for my MAC to get it ready for development
   * `brew install htop`
   * `brew install npm -g`
   * `brew install python`
-  * **Command:** `brew install wget && brew install git && brew install htop && brew install npm -g && brew install python`
+  * **Command:** `brew install wget && brew install git && brew install htop  && brew install python3`
 
 * Install **Docker for Mac (350 Mb+)**
   * https://docs.docker.com/docker-for-mac/install/
